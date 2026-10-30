@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsunemori-utaawase",
  "yomi": "たいこうたいごうぐうのすけつねもりあそんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（五題）",
+  "era": "仁安2年（1167）8月",
+  "author": "主催 平経盛／判者 藤原清輔",
+  "desc": "太皇太后宮亮平経盛の家で催された歌合。草花・鹿・月・紅葉・恋の題で、重家・頼政・俊恵・小侍従らが詠み、清輔が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
